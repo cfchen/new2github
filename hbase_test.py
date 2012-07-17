@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 import json, urllib2, httplib, sys, random, time, threading
 
-#test on my repo
+#test on my repo!
 
 recordsPerBatch = 300 #reports per client per day
 columns = 3
